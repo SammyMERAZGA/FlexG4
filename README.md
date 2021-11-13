@@ -1,8 +1,13 @@
 ## Flex'n G4 ##
 
 Le projet Flex'N G4 est le premier projet réalisé en équipe à l'Institut G4. L'objectif du projet était de réaliser un site web Wiki de bases de connaissances regroupant des fiches de cours pouvant être lues, créés, modifiées et supprimées (CRUD) avec un système d'authentification pour que les utilisateurs puissent laisser des commentaires sur les fiches.
+
+  ---
+
 Mon équipe était composée de 5 développeurs front-end & back-end (Sammy MERAZGA, Selwan SMATI, Sofiane TIGRINE, Soilihi M'MADI, Nassim SOIDIKI).
 
+  ---
+  
 ### Languages & Tools 🛠
 
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
